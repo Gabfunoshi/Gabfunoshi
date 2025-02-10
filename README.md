@@ -22,7 +22,7 @@ Explore meus projetos para entender mais sobre meu trabalho e contribuições. F
 ## 🌐 Conecte-se comigo
 - [LinkedIn]([Seu-Link-Linkedin](https://www.linkedin.com/in/gabrieljuancueva/))
 
-
+![gabriel cueva's Stats](https://github-readme-stats.vercel.app/api?username=gabriel cueva&theme=gotham&show_icons=true&hide_border=true&count_private=true)
 
 
 
